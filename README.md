@@ -61,8 +61,14 @@ vb v
 4. Email notifications will be sent upon approval or activation of your account by the manager.
 
 ## Use case Diagram 
-![Use case diagram](https://github.com/aed5100/final-project-team-drap-final/assets/144941047/85f85969-2cc3-4c26-a85b-9236c0eaa7bb)
 
+![github-1](https://github.com/roshanshetty271/HealthHub/assets/67579974/0a3fbe84-85af-46b6-8bf1-323b90887b6e)
+
+![github-2](https://github.com/roshanshetty271/HealthHub/assets/67579974/620712f0-4a05-4d82-8b2d-6510df952a09)
+
+
+![github-3](https://github.com/roshanshetty271/HealthHub/assets/67579974/983e97ea-db1b-4bca-bac7-c645bd522a0c)
+![github-4](https://github.com/roshanshetty271/HealthHub/assets/67579974/454432a7-0120-452e-9a1b-93784fd36882)
 
 
 
